@@ -2,7 +2,7 @@
 library(Matrix)
 library(gtools)
 library(glmnet)
-
+#change
 checkElement <- function(element, groupList) {
   # Check if an element is in a list. If it does exist in some group, return the group
   # index in that list and its sublist index. Otherwise, return c(0,0).
